@@ -1,0 +1,4 @@
+FUNCIONARIO           SALARIO               
+JOAO                  200                   
+MARIA                 500                   
+                                            
